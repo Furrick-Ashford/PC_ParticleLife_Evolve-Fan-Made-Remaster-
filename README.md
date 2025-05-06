@@ -1,2 +1,4 @@
 # PC_ParticleLife_Evolve-Fan-Made-Remaster-
 An evolutionary version of Particle Life invented by Jeffrey Ventrella. The original version of this evolutionary simulation was made by Terence Soule of Programming Chaos https://www.youtube.com/channel/UC2rO9hEjJkjqzktvtj0ggNQ I am a fan who decided to improve it, Terence made the original version by himself.
+
+Running the simulation is simple. First, if you haven't already download the .zip file, then unzip it. Once unzipped if you don't have Processing installed download the newest version from https://processing.org/download (Stable always works best) then to run it open the PC_ParticleLife_Evolve.pde file with Processing and press the run button, everything should work fine. If not you can contact me, the owner, Furrick, for help, or try to fix it yourself (Like redownloading the files)
